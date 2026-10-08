@@ -27,6 +27,7 @@ GEO ersetzt SEO nicht. Eine Seite, die nicht rankt, wird auch nicht zitiert.
 | Repository | Inhalt |
 |---|---|
 | [generative-engine-optimization-de](https://github.com/taismo-gmbh/generative-engine-optimization-de) | GEO-Handbuch für den deutschen Markt: Prüfkatalog, Glossar, Schema-Vorlagen, Messmethodik |
+| [geo-schema-checker](https://github.com/taismo-gmbh/geo-schema-checker) | Chrome-Erweiterung GEO & Schema Checker: Schema-Graph, Entitätssignale und KI-Lesbarkeit einer Seite mit einem Klick, geprüft lokal im Browser ([Chrome Web Store](https://chromewebstore.google.com/detail/geo-schema-checker-by-tai/nmddlaafhlfldaiccalieibgelmdddgn)) |
 
 Weitere folgen. Was hier erscheint, wird gepflegt oder archiviert, nicht liegengelassen.
 
